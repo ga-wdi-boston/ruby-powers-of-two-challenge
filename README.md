@@ -54,7 +54,7 @@ After `rubocop` passes your code, run `rspec` to run the included tests,
 
 ## Bonus
 
-2^3 is 8, 2^2 is 4, and 2^1 is 1.
+2^3 is 8, 2^2 is 4, and 2^1 is 2.
 What is 2^0?
 Well, to increase the exponent by one, you multiply by two,
 and to decrease the exponent by one, you divide by two.
